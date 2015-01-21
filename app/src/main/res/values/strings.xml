@@ -7,5 +7,6 @@
     <string name="title">BBChat</string>
     <string name="username_field">Username</string>
     <string name="login_button">Enter</string>
+    <string name="about">Made by: Joe Goodman, Robert Kim, Eric Kong</string>
 
 </resources>
