@@ -37,4 +37,4 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 }
-//Note: Jow is Scum not really
+//Note: Joe is scum. He messed up his android studio
